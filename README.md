@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Edit changes - to be completed by 6/12/2016
